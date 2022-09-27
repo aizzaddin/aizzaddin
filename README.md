@@ -8,6 +8,6 @@ I am _Muhammad Wildan Aizzaddin_. You can call me _Wildan/Dan_. I am a Backend D
 
 ### ⚡ How to reach me?
 - [Twitter](https://www.twitter.com/wildanaizzaddin)
-- [LinkedIn](https://www.linkedin.com/p/aizzaddin)
+- [LinkedIn](https://www.linkedin.com/in/aizzaddin/)
 - [Instagram](https://www.instagram.com/wildanaizzaddin)
 - [Personal Blog](https://www.holydans.com)
